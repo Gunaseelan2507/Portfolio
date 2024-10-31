@@ -45,6 +45,36 @@ Bank of Montreal - Toronto, ON | June 2007 – Sept 2016
 <li>Provided on-site and remote support for desktops, laptops, and mobile devices. Installed, configured, and maintained operating systems and applications.</li>
 <li>Acted as a primary contact for IT issues, striving for first-level resolution and escalating when necessary. Provided technical training for end users and communicated system updates.</li>
 
+<h3>HelpDesk Specialist</h3>
+
+Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 2009 
+
+<li>Extensive experience in mainframe connectivity, security, and Windows NT/2000 environments.</li>
+<li>Provided specialized assistance to Nuclear Energy, supporting remote access via dial-up/VPN </li>
+<li>PReset passwords for Domain, Exchange Outlook E-mail, Lotus Sametime and Mainframe </li>
+<li>Assisting users with Hardware, Software, LAN, Connectivity and Internet Browsing issues </li>
+<li>Configuring and creating wireless profile and troubleshooting</li>
+<li>Assisting Client escalations and Temp Local admin rights of Central Point of Administration..</li>
+<li>Assisting users with Server Outage, PST corruption & Deskside assistance</li>
+<li>Escalated issues as needed and maintained communication with customer and technical teams.</li>
+<li>Provided technical training for end users and communicated system updates.</li>
+<li>Extensively utilized HPSD system to record and track issues.</li>
+
+<h3>Technical Support Specialist II</h3>
+
+Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006 
+
+
+<li>Provided technical support for Toshiba products, including laptops, desktops, PDAs</li>
+<li>Assisting and setup user Laptops network and data connections. (FireWire, Wireless, and Bluetooth)</li>
+<li>Supported operating systems including Windows 2000, 2003, NT, XP, and Media CE.</li>
+<li>Supported applications MS products and Toshiba’s proprietary tools and utilities.</li>
+<li>Performed troubleshooting and re-imaging for local client systems (Laptops and Desktops).</li>
+<li>New system image and configured new workstations.</li>
+<li>Provided after-hours support for network, help desk, and NT client/server environments.</li>
+<li>Authored SLA for user and security administration for both internal and external customers.</li>
+
+
 
 <h2>Key Skills and Competencies</h2>
 
