@@ -64,7 +64,6 @@ Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 200
 
 Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006 
 
-
 <li>Provided technical support for Toshiba products, including laptops, desktops, PDAs</li>
 <li>Assisting and setup user Laptops network and data connections. (FireWire, Wireless, and Bluetooth)</li>
 <li>Supported operating systems including Windows 2000, 2003, NT, XP, and Media CE.</li>
@@ -73,6 +72,22 @@ Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006
 <li>New system image and configured new workstations.</li>
 <li>Provided after-hours support for network, help desk, and NT client/server environments.</li>
 <li>Authored SLA for user and security administration for both internal and external customers.</li>
+
+<h3>Desktop Support Technician</h3>
+
+Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004 
+
+
+<li>Installing & Configuring Windows XP, W2K Professional for workstation</li>
+<li>Maintenance and configuring windows server 2000 </li>
+<li>Installing, Configuring and troubleshooting Wireless and Local Office Network issue. </li>
+<li>Setting up & troubleshooting email configurations for clients (Exchange/MS Outlook/Lotus Notes) </li>
+<li>Assembling computer systems according to customer Specifications.</li>
+<li>Involved in Network cabling for several projects.</li>
+<li>Creating Active Directory User Accounts & Resetting the passwords for LAN.</li>
+<li>Creating Ghost image, Systems Backups, Spy ware and virus removal and diagnosis.</li>
+<li>Checking & reporting event viewer for system problems.</li>
+<li>Onsite Technical support service for clients..</li>
 
 
 
