@@ -10,13 +10,16 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
   
 
 <h2>Professional Summary</h2>
-        <p>Detail-oriented Associate IT Technician with 17 years of hands-on experience in providing comprehensive support for hardware, software, and network issues. Highly skilled in troubleshooting and resolving complex technical problems while delivering outstanding customer service. Proficient in managing Microsoft 365, Azure AD, Intune, and various operating systems. Proven ability to support users both onsite and remotely, effectively reducing downtime and optimizing system performance. Adept at ensuring seamless operations through proactive maintenance, timely issue resolution, and a focus on enhancing user experience and productivity.</p>
+
+<p>Detail-oriented Associate IT Technician with 17 years of hands-on experience in providing comprehensive support for hardware, software, and network issues. Highly skilled in troubleshooting and resolving complex technical problems while delivering outstanding customer service. Proficient in managing Microsoft 365, Azure AD, Intune, and various operating systems. Proven ability to support users both onsite and remotely, effectively reducing downtime and optimizing system performance. Adept at ensuring seamless operations through proactive maintenance, timely issue resolution, and a focus on enhancing user experience and productivity.</p>
 
 <h2>Professional Experience</h2>
 
-System Administrator and Application Support Analyst
-Bank of Montreal - Toronto, ON | Sept 2022 – Present
+<h2>System Administrator and Application Support Analyst </h2>
+<p><i>Bank of Montreal - Toronto, ON | Sept 2022 – Present</i></p>
 
+
+<p>
 <li>Provide Tier 2 and 3 Help Desk support, managing escalations and resolving complex technical issues, including server and firewall emergencies.</li>
 <li>Managed Active Directory tasks, including account setup, group creation, and permissions management, ensuring security and accuracy.</li>
 <li>Granted permissions to shared drives, configured MS Exchange settings, and supported users with access-related queries.</li>
@@ -24,11 +27,13 @@ Bank of Montreal - Toronto, ON | Sept 2022 – Present
 <li>Utilized ServiceNow for ticket tracking and management, maintaining a high level of accuracy and compliance in each request.</li>
 <li>Lead IT system migrations to cloud platforms and design IT architecture for clients, collaborating closely with project and sales teams.</li>
 <li>Document all changes and client environment configurations, adhering to industry best practices for security and reliability.</li>
-
+</p>
 
 <h3>Senior Desktop Support Technician</h3>
- CompuCom Inc - Toronto, ON | Sept 2016 – Sept 2022
+<i>CompuCom Inc - Toronto, ON | Sept 2016 – Sept 2022 </i> 
 
+
+<p>
 <li>Provided first and second-level technical support for Windows, Linux, and Mac OS environments, troubleshooting complex issues with hardware, software, and network systems.</li>
 <li>Installed, configured, and maintained end-user devices including desktops, laptops, printers, and scanners, ensuring optimal performance and seamless operation.</li>
 <li>Supported users in the North America region with Office 365 tools like Outlook, SharePoint, Teams, and OneDrive, providing timely issue resolution.</li>
@@ -36,19 +41,28 @@ Bank of Montreal - Toronto, ON | Sept 2022 – Present
 <li>Collaborated with business leaders by managing incident tickets, providing updates, and documenting all technical processes for future reference.</li> 
 <li>Assisted in the successful migration of users from Windows 7 to Windows 10, handling imaging, configuration, and deployment of systems efficiently.</li>
 
+</p>
 
 <h3>Deskside Support Analyst II</h3>
-Bank of Montreal - Toronto, ON | June 2007 – Sept 2016
+<i>Bank of Montreal - Toronto, ON | June 2007 – Sept 2016 </i>
 
+
+<p>
 <li>Supported server hardware and operating systems, ensuring up-to-date security measures and firmware patches.</li>
 <li>Offered hands-on network support, resolving performance issues and assisting in the implementation of network solutions.</li>
-<li>Provided on-site and remote support for desktops, laptops, and mobile devices. Installed, configured, and maintained operating systems and applications.</li>
-<li>Acted as a primary contact for IT issues, striving for first-level resolution and escalating when necessary. Provided technical training for end users and communicated system updates.</li>
+<li>Provided on-site and remote support for desktops, laptops, and mobile devices. 
+<li>Installed, configured, and maintained operating systems and applications.</li>
+<li>Acted as a primary contact for IT issues, striving for first-level resolution and escalating when necessary.
+<li>Provided technical training for end users and communicated system updates.</li>
+
+
+</p>
 
 <h3>HelpDesk Specialist</h3>
+<i>Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 2009</i>
 
-Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 2009 
 
+<p>
 <li>Extensive experience in mainframe connectivity, security, and Windows NT/2000 environments.</li>
 <li>Provided specialized assistance to Nuclear Energy, supporting remote access via dial-up/VPN </li>
 <li>PReset passwords for Domain, Exchange Outlook E-mail, Lotus Sametime and Mainframe </li>
@@ -60,9 +74,14 @@ Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 200
 <li>Provided technical training for end users and communicated system updates.</li>
 <li>Extensively utilized HPSD system to record and track issues.</li>
 
-<h3>Technical Support Specialist II</h3>
 
-Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006 
+</p>
+
+
+<h3>Technical Support Specialist II</h3>
+<i>Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006</i>
+
+<p>
 
 <li>Provided technical support for Toshiba products, including laptops, desktops, PDAs</li>
 <li>Assisting and setup user Laptops network and data connections. (FireWire, Wireless, and Bluetooth)</li>
@@ -73,11 +92,14 @@ Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006
 <li>Provided after-hours support for network, help desk, and NT client/server environments.</li>
 <li>Authored SLA for user and security administration for both internal and external customers.</li>
 
+</p>
+
+
 <h3>Desktop Support Technician</h3>
+<i>Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004</i>
 
-Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004 
 
-
+<p>
 <li>Installing & Configuring Windows XP, W2K Professional for workstation</li>
 <li>Maintenance and configuring windows server 2000 </li>
 <li>Installing, Configuring and troubleshooting Wireless and Local Office Network issue. </li>
@@ -90,8 +112,11 @@ Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004
 <li>Onsite Technical support service for clients..</li>
 
 
+</p>
 
 <h2>Key Skills and Competencies</h2>
+
+<p>
 
 <li><strong>Server and Client Technology:</strong> Installation, configuration, and maintenance of server hardware and operating systems, including firmware updates and security patching.</li>
 <li><strong>Network Services:</strong> Expert in diagnosing and resolving network issues, providing remote and on-site support, and developing network support plans.</li>
@@ -102,8 +127,14 @@ Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004
 <li><strong>Security solution:</strong> Wireshark, Qualys, and Nmap tools</li>
 <li><strong>Asset management and inventory control:</strong> ServiceNow, HP Asset Manager, and other ticketing systems expertise</li>
 
+</p>
+
+
+
 
 <h2>Education and Certifications</h2>
+
+<p>
 
 <li><strong>Bachelor of Arts (B.A.)</strong> – University of Peradeniya, Sri Lanka</li>
 <li><strong>Microsoft Certified:</strong> MCP | MCSA | AZURE Administrator | Windows Server Hybrid Administrator Associate</li>
@@ -112,6 +143,7 @@ Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004
 <li><strong>Certified CompTIA:</strong> A+ | Network+ | Security+ | Stackable Certifications CIOS and CSIS</li>
 <li><strong>ISC2 CC training completed</strong> Earned Badge from ICS2</li>
  
+</p>
 
 </body>
 </html>
