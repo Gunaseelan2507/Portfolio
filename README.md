@@ -20,43 +20,70 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 <h2>System Administrator and Application Support Analyst </h2>
 <p><i>Bank of Montreal - Toronto, ON | Sept 2022 – Present</i></p>
 
+<h2>Skills and Experience</h2>
 
-<p>
-<li>Provide Tier 2 and 3 Help Desk support, managing escalations and resolving complex technical issues, including server and firewall emergencies.</li>
-<li>Managed Active Directory tasks, including account setup, group creation, and permissions management, ensuring security and accuracy.</li>
-<li>Granted permissions to shared drives, configured MS Exchange settings, and supported users with access-related queries.</li>
-<li>Configured RSA tokens and provided access support for Citrix/VPN users, ensuring secure connectivity and remote access for end-users.</li>
-<li>Utilized ServiceNow for ticket tracking and management, maintaining a high level of accuracy and compliance in each request.</li>
-<li>Lead IT system migrations to cloud platforms and design IT architecture for clients, collaborating closely with project and sales teams.</li>
-<li>Document all changes and client environment configurations, adhering to industry best practices for security and reliability.</li>
-</p>
+ <p>
+<li>Administering, maintaining, and enforcing security policies, defining rules, and access controls.</li>
+<li>Monitoring Windows on-premises and cloud servers (30 VM servers on Windows Server 2019) to ensure stability and performance.</li>
+<li>Ensuring Windows Server OS is properly updated, hardened, and kept up-to-date with the latest versions.</li>
+<li>Proficient in Microsoft 365 admin center and Office applications.</li>
+<li>In-depth knowledge of PowerShell scripting for automation tasks.</li>
+<li>Hands-on experience with cloud services and related technologies.</li>
+<li>Providing support for user-facing incidents and task support, ensuring timely issue resolution.</li>
+<li>Skilled in project management using Atlassian tools such as Agile, Jira, and Confluence.</li>
+<li>Administering and supporting ALM software and testing tools.</li>
+<li>Proficient in supporting both SaaS and on-premises applications.</li>
+<li>Performing monthly vulnerability scans and applying patches for remediation.</li>
+<li>Solid understanding of software licensing and vendor maintenance processes.</li>
+<li>Working within and maintaining the organization's change management and implementation processes.</li>
+</p> 
 
 <h3>Senior Desktop Support Technician</h3>
-<i>CompuCom Inc - Toronto, ON | Sept 2016 – Sept 2022 </i> 
+<i> Bank Of Montreal : CompuCom canada Inc - Toronto, ON | Sept 2016 – Sept 2022 </i> 
 
 
 <p>
-<li>Provided first and second-level technical support for Windows, Linux, and Mac OS environments, troubleshooting complex issues with hardware, software, and network systems.</li>
-<li>Installed, configured, and maintained end-user devices including desktops, laptops, printers, and scanners, ensuring optimal performance and seamless operation.</li>
-<li>Supported users in the North America region with Office 365 tools like Outlook, SharePoint, Teams, and OneDrive, providing timely issue resolution.</li>
-<li>Conducted remote troubleshooting and provided clear, step-by-step instructions for end users, ensuring efficient problem resolution.</li>
-<li>Collaborated with business leaders by managing incident tickets, providing updates, and documenting all technical processes for future reference.</li> 
-<li>Assisted in the successful migration of users from Windows 7 to Windows 10, handling imaging, configuration, and deployment of systems efficiently.</li>
-
+<li>Working experience with Microsoft 365 product and service administration</li>
+<li>Administration, Maintenance using with Microsoft System Center Operations Manager</li>
+<li>Good understanding and working knowledge of scripting languages</li>
+<li>Expert hand On Supporting all collaboration Tools (Teams, Skype for Business, Webex, etc.)</li>
+<li>Analytical Thinking and problem-solving skills and Data driven decision making - In-depth.</li> 
+<li>Good understanding and working knowledge with company Security policies and Standards </li>
+<li>Supported server hardware and operating systems, ensuring up-to-date security measures and firmware patches.</li>
+<li>Good understanding Hand-on working knowledge with Endpoint Security products.</li>
+<li>Windows Modern Desktop deployment and administration azure portal and Intune autopilot </li>
+<li>Proficient support with communication tools and SaaS applications for users.</li>
+<li>hands-on experience and specialize in risk mitigation strategies for IO applications.</li>
+<li>Working knowledge with IO applications, safeguarding data integrity and system reliability.</li>
+<li>Responsible for ITSM tasks such as incident, change, and Task request using the ServiceNow </li>
+<li>Working with databases such as Oracle and Microsoft SQL and MySQL queries </li>
+<li>Excellence knowledge with creating KB articles, Training Document detailing with supporting model </li>
 </p>
+
 
 <h3>Deskside Support Analyst II</h3>
 <i>Bank of Montreal - Toronto, ON | June 2007 – Sept 2016 </i>
 
 
 <p>
-<li>Supported server hardware and operating systems, ensuring up-to-date security measures and firmware patches.</li>
-<li>Offered hands-on network support, resolving performance issues and assisting in the implementation of network solutions.</li>
-<li>Provided on-site and remote support for desktops, laptops, and mobile devices. 
-<li>Installed, configured, and maintained operating systems and applications.</li>
-<li>Acted as a primary contact for IT issues, striving for first-level resolution and escalating when necessary.
-<li>Provided technical training for end users and communicated system updates.</li>
 
+<li>Enterprise Active Directory administration, maintenance and technical support</li>
+<li>Expertise and Extensive Experience with IAM and PAM CyberArk, Beyond Trust, AWS and Azure.</li>
+<li>Identify potential security vulnerabilities and remediation solution</li>
+<li>Monitor security events using SIEM tools and investigate potential security incidents</li>
+<li>Provide security awareness training to staff members and promote a culture of security awareness</li>
+<li>Participate in incident response activities and conduct forensic and NOC analysis as needed</li>
+<li>Contributed to the development of security policies and procedures </li>
+<li>Supported the IT security team in monitoring security events and responding to incidents</li>
+<li>Participated in security awareness training sessions for employee</li>
+<li>Working knowledge Cloud Migration and Application, storage support and enrolment service </li>
+<li>In-depth knowledge of network, switches, routers, firewalls including VLAN’s and IP subnets.</li>
+<li>Good knowledge and supporting business continuity plan (BCP) and disaster recovery (DR) projects.</li>
+<li>Working Knowledge with information security, threat and vulnerabilities issues </li>
+<li>Strong technical knowledge of network protocols and network principles and support</li>
+<li>Ability to respond to multiple incidents simultaneously and in a prioritized matter.</li>
+<li>Working independently and team regularly handles non-routine situations.</li>
+<li>Working experience with MDM Simplifying the Desktop Deployment Process with Intune and Autopilot</li>
 
 </p>
 
@@ -153,10 +180,16 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 <p>
 
 <li><strong>Bachelor of Arts (B.A.)</strong> – University of Peradeniya, Sri Lanka</li>
-<li><strong>Microsoft Certified:</strong> MCP | MCSA | AZURE Administrator | Windows Server Hybrid Administrator Associate</li>
+<li><strong>Microsoft Certified:</strong> Microsoft Certified professonal(MCP)</li>
+<li><strong>Microsoft Certified:</strong> Microsoft certified system administrator(MCSA) </li>
+<li><strong>Microsoft Certified:</strong> Microsoft Certified AZURE Administrator</li>
+<li><strong>Microsoft Certified:</strong> Microsoft Certified  Windows Server Hybrid Administrator Associate</li>
 <li><strong>AWS Certified Solution Architect</strong></li>
 <li><strong>CCNA</strong> Cisco Certified Network Associate</li>
-<li><strong>Certified CompTIA:</strong> A+ | Network+ | Security+ | Stackable Certifications CIOS and CSIS</li>
+<li><strong>Certified CompTIA:</strong> Certified CompTIA A+ </li>
+<li><strong>Certified CompTIA:</strong> Certified CompTIA Network+ </li>
+<li><strong>Certified CompTIA:</strong> Certified CompTIA CIOS (CompTIA IT Operations Specialist):
+<li><strong>Certified CompTIA:</strong> Certified CompTIA CSIS (CompTIA Secure Infrastructure Specialist)</li>
 <li><strong>ISC2 CC training completed</strong> Earned Badge from ICS2</li>
  
 </p>
