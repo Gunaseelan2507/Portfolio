@@ -1,53 +1,13 @@
 # Portfolio
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume - Gunaseelan Rajadurai</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #0056b3;
-            border-bottom: 2px solid #0056b3;
-            padding-bottom: 10px;
-        }
-        h3 {
-            color: #333;
-            margin-top: 20px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <h1>GUNASEELAN RAJADURAI</h1>
-        <p><strong>Phone:</strong> 416-464-0219<br>
-           <strong>Address:</strong> Ajax, ON, L1Z 2B2<br>
-           <strong>Email:</strong> <a href="mailto:gunaseelanr@hotmail.com">gunaseelanr@hotmail.com</a><br>
-           <strong>LinkedIn Profile:</strong> <a href="https://www.linkedin.com/in/gunaseelan-rajadurai/" target="_blank">LinkedIn</a>
-        </p>
+# Resume - Gunaseelan Rajadurai
+           
+GUNASEELAN RAJADURAI
+Phone:</strong> 416-464-0219<br>
+Address:Ajax, ON, L1Z 2B2
+<a href="mailto:gunaseelanr@hotmail.com">gunaseelanr@hotmail.com</a><br>
+LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
+  
 
         <h2>Professional Summary</h2>
         <p>Detail-oriented Associate IT Technician with 17 years of hands-on experience in providing comprehensive support for hardware, software, and network issues. Highly skilled in troubleshooting and resolving complex technical problems while delivering outstanding customer service. Proficient in managing Microsoft 365, Azure AD, Intune, and various operating systems. Proven ability to support users both onsite and remotely, effectively reducing downtime and optimizing system performance. Adept at ensuring seamless operations through proactive maintenance, timely issue resolution, and a focus on enhancing user experience and productivity.</p>
