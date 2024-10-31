@@ -114,6 +114,20 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 
 </p>
 
+<h3>Desktop Technician</h3>
+<i>Netplus Computer Inc - Scarborough, Ontario |  Sep 2000 - Sep 2003</i>
+
+
+<p>
+<li>Assembling computer systems according to customer Specifications.</li>
+<li>Customer System backup and restore and reinstalling Operating system </li>
+<li>Supporting and assisting website, email and network problems onsite services</li>
+
+</p>
+
+
+
+
 <h2>Key Skills and Competencies</h2>
 
 <p>
