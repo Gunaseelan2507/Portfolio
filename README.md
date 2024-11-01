@@ -173,6 +173,85 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 </p>
 
 
+Skills and Experience
+    <h2>System & Network Administration</h2>
+    <ul>
+<p>
+        <li><strong>System Administration</strong> (Windows, Mac, Linux)</li>
+        <li><strong>Active Directory & Entra ID, Group Policy</strong></li>
+        <li><strong>Microsoft Exchange, SharePoint, IIS</strong></li>
+        <li><strong>Backup & Recovery, OS Hardening</strong></li>
+        <li><strong>VPN Management</strong> (Juniper, Pulse Secure)</li>
+        <li><strong>Network Hardware</strong> (Switches, Routers, Firewall)</li>
+        <li><strong>Remote Support Tools</strong> (LogMeIn, Bomgar, PCAnywhere, Any Desk, Ultra Viewer, Quick Assist)</li>
+    </ul>
+</p>
+    <h2>Cloud & Virtualization</h2>
+<p>
+    <ul>
+        <li><strong>Azure Administration, Cloud Computing & Services</strong></li>
+        <li><strong>Office 365, Microsoft 365, Intune</strong></li>
+        <li><strong>VMware, Hyper-V, ESXi, Docker, Kubernetes</strong></li>
+        <li><strong>Cloud Migration</strong>, EC2, S3 Bucket Storage</li>
+        <li><strong>Security Patch Management, Vulnerability Management</strong></li>
+    </ul>
+</p>
+    <h2>Security & Risk Management</h2>
+<p>
+    <ul>
+        <li><strong>Information Security, Governance, Risk Management</strong></li>
+        <li><strong>CyberArk, Carbon Black, Qualys</strong></li>
+        <li><strong>Security Incident & Threat Management</strong></li>
+        <li><strong>Antivirus, Malware Protection</strong> (Windows Defender)</li>
+        <li><strong>IAM/PAM, Access Control, RSA Secure ID Administration</strong></li>
+        <li><strong>SIEM, Social Engineering, Phishing Attack Prevention</strong></li>
+    </ul>
+</p>
+    <h2>Application & Database Management</h2>
+<p>  
+<ul>
+        <li><strong>Software Installation, Deployment & Management</strong></li>
+        <li><strong>Database Management</strong> (SQL, MySQL, Oracle)</li>
+        <li><strong>ALM, UFT, ReadyAPI, Jira, Confluence, Atlassian</strong></li>
+        <li><strong>ServiceNow, ITIL/ITSM</strong></li>
+        <li><strong>Collaboration Tools</strong> (Skype, Teams, Webex)</li>
+    </ul>
+</p>
+    <h2>Data Analysis & Reporting</h2>
+    <ul>
+<p>
+        <li><strong>Power BI, Tableau, Dynatrace, Wireshark</strong></li>
+        <li><strong>Project Management, Effective Decision-making</strong></li>
+    </ul>
+</p>
+    <h2>Development & Scripting</h2>
+<p>
+   <ul>
+        <li><strong>PowerShell, Java, HTML, Python</strong></li>
+        <li><strong>Web & Graphic Design</strong></li>
+    </ul>
+</p>
+    <h2>Communication & User Support</h2>
+ <p>  
+ <ul>
+        <li><strong>Incident Management, Problem Solving</strong></li>
+        <li><strong>Effective User Communications, Vendor Communication</strong></li>
+        <li><strong>Teaching & Training, Service Desk Ticketing</strong></li>
+        <li><strong>Communication Skills</strong></li>
+    </ul>
+</p>
+
+<h2>Hardware Support & Peripheral Devices</h2>
+  <p>
+  <ul>
+        <li><strong>PC Hardware, Laptops, Printers, Network Printers, Scanners</strong></li>
+        <li><strong>Software & Hardware Troubleshooting, Software Deployment</strong></li>
+        <li><strong>Remote & Onsite Support</strong></li>
+    </ul>
+</p>
+
+
+
 
 
 <h2>Education and Certifications</h2>
