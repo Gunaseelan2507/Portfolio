@@ -159,7 +159,7 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 <h2>Skills and Experience </h2>
   
     <h2>System & Network Administration</h2>
-    <ul>
+
 <p>
         <li><strong>System Administration</strong> (Windows, Mac, Linux)</li>
         <li><strong>Active Directory & Entra ID, Group Policy</strong></li>
