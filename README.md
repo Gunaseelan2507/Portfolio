@@ -156,7 +156,8 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 
 
 
-Skills and Experience
+<h2>Skills and Experience </h2>
+  
     <h2>System & Network Administration</h2>
     <ul>
 <p>
