@@ -156,23 +156,6 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 
 
 
-
-<h2>Key Skills and Competencies</h2>
-
-<p>
-
-<li><strong>Server and Client Technology:</strong> Installation, configuration, and maintenance of server hardware and operating systems, including firmware updates and security patching.</li>
-<li><strong>Network Services:</strong> Expert in diagnosing and resolving network issues, providing remote and on-site support, and developing network support plans.</li>
-<li><strong>Systems & Tools:</strong> ServiceNow, Active Directory, MS Exchange, Citrix/VPN, RSA token</li>
-<li><strong>End User Devices:</strong> Comprehensive support for desktops, laptops, tablets, and mobile devices, including hardware repairs, software updates, and configuration.</li>
-<li><strong>Service Desk:</strong> First-level IT issue resolution, escalation, and follow-up. Proficient in communicating system notifications and providing user training.</li>
-<li><strong>Migration expertise:</strong> Windows7/10/11</li>
-<li><strong>Security solution:</strong> Wireshark, Qualys, and Nmap tools</li>
-<li><strong>Asset management and inventory control:</strong> ServiceNow, HP Asset Manager, and other ticketing systems expertise</li>
-
-</p>
-
-
 Skills and Experience
     <h2>System & Network Administration</h2>
     <ul>
