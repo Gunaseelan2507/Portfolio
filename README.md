@@ -11,7 +11,7 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 
 <h2>Professional Summary</h2>
 
-<p>Detail-oriented Associate IT Technician with 20 years of hands-on experience in providing comprehensive support for hardware, software, and network issues. Highly skilled in troubleshooting and resolving complex technical problems while delivering outstanding customer service. Proficient in managing Microsoft 365, Azure AD, Intune, and various operating systems. Proven ability to support users both onsite and remotely, effectively reducing downtime and optimizing system performance. Adept at ensuring seamless operations through proactive maintenance, timely issue resolution, and a focus on enhancing user experience and productivity.
+<p>Detail-oriented Associate IT Technician with over 10 years of hands-on experience in providing comprehensive support for hardware, software, and network issues. Highly skilled in troubleshooting and resolving complex technical problems while delivering outstanding customer service. Proficient in managing Microsoft 365, Azure AD, Intune, and various operating systems. Proven ability to support users both onsite and remotely, effectively reducing downtime and optimizing system performance. Adept at ensuring seamless operations through proactive maintenance, timely issue resolution, and a focus on enhancing user experience and productivity.
 
 </p>
 
