@@ -87,72 +87,15 @@ LinkedIn Profile:"https://www.linkedin.com/in/gunaseelan-rajadurai/
 
 </p>
 
-<h3>HelpDesk Specialist</h3>
-<i>Genral Ellectric- Mississauga, Ontario, Canada · On-site ·| Sep 2006 - Sep 2009</i>
 
 
-<p>
-<li>Extensive experience in mainframe connectivity, security, and Windows NT/2000 environments.</li>
-<li>Provided specialized assistance to Nuclear Energy, supporting remote access via dial-up/VPN </li>
-<li>PReset passwords for Domain, Exchange Outlook E-mail, Lotus Sametime and Mainframe </li>
-<li>Assisting users with Hardware, Software, LAN, Connectivity and Internet Browsing issues </li>
-<li>Configuring and creating wireless profile and troubleshooting</li>
-<li>Assisting Client escalations and Temp Local admin rights of Central Point of Administration..</li>
-<li>Assisting users with Server Outage, PST corruption & Deskside assistance</li>
-<li>Escalated issues as needed and maintained communication with customer and technical teams.</li>
-<li>Provided technical training for end users and communicated system updates.</li>
-<li>Extensively utilized HPSD system to record and track issues.</li>
 
 
-</p>
 
 
-<h3>Technical Support Specialist II</h3>
-<i>Siemens Advanta · Mississauga, Ontario  | Sep 2004 - Sep 2006</i>
-
-<p>
-
-<li>Provided technical support for Toshiba products, including laptops, desktops, PDAs</li>
-<li>Assisting and setup user Laptops network and data connections. (FireWire, Wireless, and Bluetooth)</li>
-<li>Supported operating systems including Windows 2000, 2003, NT, XP, and Media CE.</li>
-<li>Supported applications MS products and Toshiba’s proprietary tools and utilities.</li>
-<li>Performed troubleshooting and re-imaging for local client systems (Laptops and Desktops).</li>
-<li>New system image and configured new workstations.</li>
-<li>Provided after-hours support for network, help desk, and NT client/server environments.</li>
-<li>Authored SLA for user and security administration for both internal and external customers.</li>
-
-</p>
 
 
-<h3>Desktop Support Technician</h3>
-<i>Canada's Wonderland - Vaughan, Ontario, Canada Sep 2003 - Sep 2004</i>
 
-
-<p>
-<li>Installing & Configuring Windows XP, W2K Professional for workstation</li>
-<li>Maintenance and configuring windows server 2000 </li>
-<li>Installing, Configuring and troubleshooting Wireless and Local Office Network issue. </li>
-<li>Setting up & troubleshooting email configurations for clients (Exchange/MS Outlook/Lotus Notes) </li>
-<li>Assembling computer systems according to customer Specifications.</li>
-<li>Involved in Network cabling for several projects.</li>
-<li>Creating Active Directory User Accounts & Resetting the passwords for LAN.</li>
-<li>Creating Ghost image, Systems Backups, Spy ware and virus removal and diagnosis.</li>
-<li>Checking & reporting event viewer for system problems.</li>
-<li>Onsite Technical support service for clients..</li>
-
-
-</p>
-
-<h3>Desktop Technician</h3>
-<i>Netplus Computer Inc - Scarborough, Ontario |  Sep 2000 - Sep 2003</i>
-
-
-<p>
-<li>Assembling computer systems according to customer Specifications.</li>
-<li>Customer System backup and restore and reinstalling Operating system </li>
-<li>Supporting and assisting website, email and network problems onsite services</li>
-
-</p>
 
 
 <p>
